@@ -1,4 +1,4 @@
-# Medyan Filter - Medyan Filtre
+# Median Filter - Medyan Filtre
 Applying a median filter on an image 
 
 // Bir görsel üzerinde medyan filtre uygulaması
